@@ -11,7 +11,7 @@ Aviation Industry
 Microsoft Excel
 
 # Dashboard 📊
-<a href="https://1drv.ms/x/c/f346036d755c1182/EfWYjfV_AkdLtYlwldA6XPEB_ydpaLGvZiyLw5MEvEvxOg?e=vbPj3k">Airline Passenger Satisfaction Analysis
+<a href="https://1drv.ms/x/c/f346036d755c1182/EfWYjfV_AkdLtYlwldA6XPEB_ydpaLGvZiyLw5MEvEvxOg?e=0dbhJ5">Airline Passenger Satisfaction Analysis
 
 # Sections 📂
 - Project Objective
@@ -143,5 +143,5 @@ Based on the comprehensive analysis of passenger data, the following recommendat
 The analysis has provided valuable insights into customer preferences, travel patterns, and satisfaction levels. With 82% of passengers being returning customers, the airline demonstrates strong customer retention, but the 56.6% dissatisfaction rate signals significant room for service enhancements. Business Class remains a key driver of satisfaction, while Economy Plus presents an opportunity for service improvements. Age group trends revealed the dominance of middle-aged travelers, suggesting targeted marketing and service customization for this demographic. By addressing pain points in service delivery, particularly for young and mid-aged passengers and first-time travelers, the airline can enhance customer experiences and increase loyalty. The findings underscore the importance of continued investment in premium services and personalized travel offerings to remain competitive and foster long-term growth.
 
 # Relevant Links 🔗
-<a href="https://1drv.ms/x/c/f346036d755c1182/ET5SIvT1A-tMsDsSUPoNa7IBrvfY4UG288wt6CuKB41CMA?e=j6Yccd">MS OneDrive (Airline Passenger Satisfaction Analysis)
+<a href="https://1drv.ms/x/c/f346036d755c1182/EfWYjfV_AkdLtYlwldA6XPEB_ydpaLGvZiyLw5MEvEvxOg?e=0dbhJ5">MS OneDrive (Airline Passenger Satisfaction Analysis)
 
